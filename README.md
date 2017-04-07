@@ -1,6 +1,6 @@
 # CPSC 310 D1 Public Suite
 
-This is the public test suite for CPSC310 [Deliverable 1](https://github.com/ubccpsc/310/blob/2016sept/project/Deliverable1.md). It also contains the data file you will use for testing and developing your D1 implementation.
+This is the public test suite for CPSC310 [Deliverable 1](https://github.com/ubccpsc/310/blob/2016sept/project/Deliverable1.md). The repository contains the files you will use for testing and developing your D1 implementation.
 
 ### Configure Environment
 
@@ -33,4 +33,4 @@ You can also run the tests as a Mocha target inside your favourite IDE.
 
 ## Caveats
 
-Remember: this is an integration test suite. It will not be super easy to debug specific code failures with this suite, but will be helpful to make sure you are on the right path for executing against the private suite (which will contain all of these tests and more). Your best bet remains to extend your own unit test suite within your project repository.
+Remember: this is an integration test suite. It will not be easy to debug specific code failures, but will help make sure you are on the right path to execute against the private suite (which will contain all of these tests and more). Your best bet remains to extend your own unit test suite within your project repository.
